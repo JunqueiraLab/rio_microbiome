@@ -2,9 +2,6 @@
 
 <p align="left">
   <img src="figures/ufrj.png" width="100">
-</p>
-
-<p align="right">
   <img src="figures/micro_urb_rj.png" width="400">
 </p>
 
