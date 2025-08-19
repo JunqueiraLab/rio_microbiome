@@ -12,7 +12,7 @@
 This repository hosts an interactive **leaflet map** with metadata from the Rio Microbiome project.  
 
 📍 **Access the map here:**  
-➡️ [Interactive Map of Samples](https://JunqueiraLab.github.io/rio_microbiome/map_all_samples.html)
+🗺️ [Interactive Map of Samples](https://JunqueiraLab.github.io/rio_microbiome/map_all_samples.html)
 
 ---
 
