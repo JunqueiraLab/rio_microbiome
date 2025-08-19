@@ -1,8 +1,7 @@
 # Rio Microbiome Project
 
-<p align="left">
+<p align="center">
   <img src="figures/ufrj.png" width="100">
-<p align="right">
   <img src="figures/micro_urb_rj.png" width="700">
 </p>
 
