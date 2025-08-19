@@ -1,6 +1,6 @@
 # Rio Microbiome Project
 
-![Rio Microbiome Map](figures/micro_urb_rj.png) ![UFRJ](figures/ufrj.png)
+![Rio Microbiome Map](figures/micro_urb_rj.png)
 
 ## 🧬 Rio Microbiome — Interactive Map
 
