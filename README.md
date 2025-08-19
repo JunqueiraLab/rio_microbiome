@@ -27,13 +27,17 @@ Clicking on a point reveals metadata, including:
 The map was generated in **R** using the [leaflet](https://rstudio.github.io/leaflet/) package and exported as a standalone HTML file.  
 It is hosted via **GitHub Pages** for easy access by reviewers and collaborators.
 
+## Map tiles & attribution
+
+- **Basemap:** CARTO *Positron* (cinza claro), servido por CARTO.
+- **Data source:** OpenStreetMap (OSM) contributors.
+
+**Required attribution:**  
+“© OpenStreetMap contributors • © CARTO”
+
+> OpenStreetMap data are available under the ODbL 1.0. CARTO basemaps require attribution to both CARTO and OSM.
+
+
 ---
 
-## Repository structure
-docs/
-└── map_all_samples.html # interactive map
-README.md # this file
-
----
-
-✉️ For questions or feedback, please contact: [**Ana Carolina Junqueira (UFRJ)**] (junqueiralab.com)
+✉️ For questions or feedback, please visit: [junqueiralab.com](https://junqueiralab.com)
