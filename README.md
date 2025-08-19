@@ -1,4 +1,8 @@
-# 🧬 Rio Microbiome — Interactive Map
+# Rio Microbiome Project
+
+![Rio Microbiome Map](figures/micro_urb_rj.png) ![UFRJ](figures/ufrj.png)
+
+## 🧬 Rio Microbiome — Interactive Map
 
 This repository hosts an interactive **leaflet map** with metadata from the Rio Microbiome project.  
 
