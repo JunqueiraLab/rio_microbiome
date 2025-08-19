@@ -1,10 +1,10 @@
 # Rio Microbiome Project
 
-<p align="center">
-  <img src="figures/ufrj.png" width="400">
+<p align="left">
+  <img src="figures/ufrj.png" width="100">
 </p>
 
-<p align="center">
+<p align="right">
   <img src="figures/micro_urb_rj.png" width="400">
 </p>
 
